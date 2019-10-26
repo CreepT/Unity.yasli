@@ -285,7 +285,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 51008332}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 43570278}
+        m_MethodName: changemenuscene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Batlenet
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &51008332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -537,7 +548,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 380096048}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 43570278}
+        m_MethodName: changemenuscene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Batlemenu
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &380096048
 MonoBehaviour:
   m_ObjectHideFlags: 0
