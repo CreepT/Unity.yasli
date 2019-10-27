@@ -916,7 +916,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 555578736}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2078894374}
+        m_MethodName: changemenuscene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Sc1
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &555578736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2030,6 +2041,7 @@ GameObject:
   - component: {fileID: 2078894373}
   - component: {fileID: 2078894372}
   - component: {fileID: 2078894371}
+  - component: {fileID: 2078894374}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2069,7 +2081,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 89.38403
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -2095,9 +2107,21 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2078894370}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 531, y: 1000, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2078894374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2078894370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9ea252acafd1c47ab8a5732d8ae0c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
