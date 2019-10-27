@@ -212,7 +212,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.8, y: -474.5}
+  m_AnchoredPosition: {x: -43, y: -475}
   m_SizeDelta: {x: 576, y: -948}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &296722266
@@ -461,7 +461,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 48.25, y: -834.17}
+  m_AnchoredPosition: {x: -0.0000038147, y: -834.17}
   m_SizeDelta: {x: -1011, y: -2729}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1020562600
@@ -535,8 +535,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1461}
-  m_SizeDelta: {x: 1314.3, y: 348.52}
+  m_AnchoredPosition: {x: -1.8, y: -1442}
+  m_SizeDelta: {x: 1070, y: 285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1078605460
 MonoBehaviour:
@@ -697,7 +697,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 4a8b975c2a0c03f489457431dd99119e, type: 3}
-    m_FontSize: 106
+    m_FontSize: 83
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -839,7 +839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.47830057, g: 0, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.08235294, b: 0.79607844, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1002,8 +1002,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.8, y: 1064}
-  m_SizeDelta: {x: 0, y: -2556}
+  m_AnchoredPosition: {x: -1.7999878, y: 1075}
+  m_SizeDelta: {x: 0, y: -2370}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2033331169
 MonoBehaviour:
@@ -1018,7 +1018,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.83137256}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
