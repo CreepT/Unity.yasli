@@ -432,7 +432,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panCount: 4
   panOffset: 300
-  snapSpeed: 10
+  snapSpeed: 15
   scaleOffset: 1
   panPrefab: {fileID: 4923029022636693342, guid: ba3ff27f05b5dbb4c860c946eb8b8370,
     type: 3}
